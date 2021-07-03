@@ -1,0 +1,7 @@
+print("A simple sum: 7+2.5")
+7+2.5
+var1 = 3 + 3
+var2 = 4.5 * var1
+echo
+var3 = 0b101 - var2
+workspace
